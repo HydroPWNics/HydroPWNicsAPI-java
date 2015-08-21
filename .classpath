@@ -2,11 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/Adam/workspace/HydroPWNicsAPI/Libs/gson-2.3.1.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="file:/C:/Users/Adam/workspace/HydroPWNicsAPI/Libs/"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Neuron Robotics Bowler Studio/bowlerstudio-0.2.28/bin/BowlerStudio.jar"/>
+	<classpathentry kind="lib" path="/home/adam/BowlerStudio/build/libs/BowlerStudio.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
